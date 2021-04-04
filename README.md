@@ -5,5 +5,5 @@
 🌱 Learning Typescript and improving React and Electron
 
 📜 Projects I'm also working on:
-    Electron File Manager
-    Electron Rentz Scorer
+ - Electron File Manager
+ - Electron Rentz Scorer
