@@ -7,3 +7,4 @@
 📜 Projects I'm also working on:
  - Electron File Manager
  - Electron Rentz Scorer
+ - MyAnimeList Friend Application
